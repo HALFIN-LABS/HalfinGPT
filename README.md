@@ -1,5 +1,7 @@
 # MacGPT
 
-Menubar web view wrapper for ChatGPT
+### ChatGPT in your Mac's menu bar.
 
-<img src="docs/screenshot.jpg" alt="Screenshot of MacGPT 1.1.0" width="50%" height="50%">
+Rrequires MacOS 13.0 or higher.
+
+<img src="docs/screenshot.jpg" alt="Screenshot of MacGPT 0.0.1" width="50%" height="50%">
